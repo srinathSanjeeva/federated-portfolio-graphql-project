@@ -1,0 +1,59 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+*.jmx
+*.hprof
+*.project
+*.classpath
+*.settings/
+*.factorypath
+*.idea/
+*.vscode/
+target/
+bin/
+out/
+build/
+.idea/
+.gradle/
+.mvn/
+!**/src/main/**/target/
+!**/src/test/**/target/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+!**/src/main/**/out/
+!**/src/test/**/out/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+dist/
+build/
+.cache/
+.temp/
+*.log
+*.tsbuildinfo
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# macOS
+.DS_Store
+
+# Linux
+*~
