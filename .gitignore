@@ -30,7 +30,7 @@ build/
 !**/src/test/**/build/
 
 # Node.js
-node_modules/
+apollo-gateway/node_modules/
 npm-debug.log
 yarn-error.log
 .pnpm-debug.log
@@ -57,3 +57,4 @@ build/
 
 # Linux
 *~
+/.idea/
